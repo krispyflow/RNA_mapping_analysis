@@ -1,4 +1,4 @@
-//  dlist.h
+//  rnaList.h
 //  2023/8/19.
 //
 //header file that contain class dlist which creates doubly-linked list, allow-
@@ -6,8 +6,8 @@
 //class iterator is implemented to as doubly-linked list iterator support the
 //node's iterating and traversing.
 
-#ifndef DLIST_H
-#define DLIST_H
+#ifndef RNALIST_H
+#define RNALIST_H
 
 #include <cstddef>
 #include <iterator>
@@ -340,4 +340,4 @@ public:
 
 }
 
-#endif /* dlist_h */
+#endif /* rnaList_h */
