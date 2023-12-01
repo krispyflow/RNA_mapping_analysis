@@ -1,7 +1,8 @@
 //  rnaList.h
 //  2023/8/19.
-//
-//header file that contain class dlist which creates doubly-linked list, allow-
+//    WORK IN PROGRESS
+//    RNA reactivity data container:
+//this program creates doubly-linked list, allow-
 //ing traversing and access of each node, supports basic operations.
 //class iterator is implemented to as doubly-linked list iterator support the
 //node's iterating and traversing.
