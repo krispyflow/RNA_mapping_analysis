@@ -1,3 +1,7 @@
+# File I/O
+# getting correlation of yeast intron's DMS reactivity (~2D structures info)
+#
+
 from scipy import stats
 from matplotlib import pyplot as plt
 import os
