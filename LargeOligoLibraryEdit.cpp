@@ -1,7 +1,9 @@
 //  main.cpp
-//  SequenceMod
-//
+//  Sequence modification of large oligo library
+//  5' & 3' const sequence manipulation.
+//  convert RNA sequences to DNA.
 //  Created by Rui Huang on 2023/9/8.
+//  file I/O formating
 // Right Now I will just use this main.cpp to add sequence in the front
 
 #include <iostream>
