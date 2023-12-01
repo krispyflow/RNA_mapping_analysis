@@ -1,9 +1,9 @@
-////  dlist.cpp
+////  rnaList.cpp
 //// 2023/8/21.
 ////
 ////here are the implementation of class dlist and class iterator.
 //
-////#include "dlist.h"
+////#include "rnaList.h"
 //using namespace Project2;
 //
 ////default constructor
